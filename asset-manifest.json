@@ -1,14 +1,14 @@
 {
-  "main.css": "/snowflake-songs/snowflake-songs-app/static/css/main.b2bf6139.chunk.css",
-  "main.js": "/snowflake-songs/snowflake-songs-app/static/js/main.279a1a4c.chunk.js",
-  "main.js.map": "/snowflake-songs/snowflake-songs-app/static/js/main.279a1a4c.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/snowflake-songs/snowflake-songs-app/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/snowflake-songs/snowflake-songs-app/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "/snowflake-songs/snowflake-songs-app/static/js/runtime~main.88c05530.js",
-  "runtime~main.js.map": "/snowflake-songs/snowflake-songs-app/static/js/runtime~main.88c05530.js.map",
-  "static/media/logo.svg": "/snowflake-songs/snowflake-songs-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.b2bf6139.chunk.css.map": "/snowflake-songs/snowflake-songs-app/static/css/main.b2bf6139.chunk.css.map",
-  "index.html": "/snowflake-songs/snowflake-songs-app/index.html",
-  "precache-manifest.6bb66494c4d6670da45b381dcbcacc43.js": "/snowflake-songs/snowflake-songs-app/precache-manifest.6bb66494c4d6670da45b381dcbcacc43.js",
-  "service-worker.js": "/snowflake-songs/snowflake-songs-app/service-worker.js"
+  "main.css": "/snowflake-songs/static/css/main.b2bf6139.chunk.css",
+  "main.js": "/snowflake-songs/static/js/main.469fafbc.chunk.js",
+  "main.js.map": "/snowflake-songs/static/js/main.469fafbc.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/snowflake-songs/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/snowflake-songs/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/snowflake-songs/static/js/runtime~main.dce621dc.js",
+  "runtime~main.js.map": "/snowflake-songs/static/js/runtime~main.dce621dc.js.map",
+  "static/media/logo.svg": "/snowflake-songs/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b2bf6139.chunk.css.map": "/snowflake-songs/static/css/main.b2bf6139.chunk.css.map",
+  "index.html": "/snowflake-songs/index.html",
+  "precache-manifest.7e21d39291ca9058ab95d508846b5bec.js": "/snowflake-songs/precache-manifest.7e21d39291ca9058ab95d508846b5bec.js",
+  "service-worker.js": "/snowflake-songs/service-worker.js"
 }

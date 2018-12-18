@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/snowflake-songs/snowflake-songs-app/precache-manifest.6bb66494c4d6670da45b381dcbcacc43.js"
+  "/snowflake-songs/precache-manifest.7e21d39291ca9058ab95d508846b5bec.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/snowflake-songs/snowflake-songs-app/index.html", {
+workbox.routing.registerNavigationRoute("/snowflake-songs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
