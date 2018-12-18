@@ -1,14 +1,14 @@
 {
-  "main.css": "/snowflake-songs/static/css/main.b2bf6139.chunk.css",
-  "main.js": "/snowflake-songs/static/js/main.469fafbc.chunk.js",
-  "main.js.map": "/snowflake-songs/static/js/main.469fafbc.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/snowflake-songs/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/snowflake-songs/static/js/1.82dafdb5.chunk.js.map",
+  "main.css": "/snowflake-songs/static/css/main.9149a698.chunk.css",
+  "main.js": "/snowflake-songs/static/js/main.a71b26d1.chunk.js",
+  "main.js.map": "/snowflake-songs/static/js/main.a71b26d1.chunk.js.map",
+  "static/js/1.da53c912.chunk.js": "/snowflake-songs/static/js/1.da53c912.chunk.js",
+  "static/js/1.da53c912.chunk.js.map": "/snowflake-songs/static/js/1.da53c912.chunk.js.map",
   "runtime~main.js": "/snowflake-songs/static/js/runtime~main.dce621dc.js",
   "runtime~main.js.map": "/snowflake-songs/static/js/runtime~main.dce621dc.js.map",
   "static/media/logo.svg": "/snowflake-songs/static/media/logo.5d5d9eef.svg",
-  "static/css/main.b2bf6139.chunk.css.map": "/snowflake-songs/static/css/main.b2bf6139.chunk.css.map",
+  "static/css/main.9149a698.chunk.css.map": "/snowflake-songs/static/css/main.9149a698.chunk.css.map",
   "index.html": "/snowflake-songs/index.html",
-  "precache-manifest.7e21d39291ca9058ab95d508846b5bec.js": "/snowflake-songs/precache-manifest.7e21d39291ca9058ab95d508846b5bec.js",
+  "precache-manifest.b90ac79122cfbe04334df56e36387ed7.js": "/snowflake-songs/precache-manifest.b90ac79122cfbe04334df56e36387ed7.js",
   "service-worker.js": "/snowflake-songs/service-worker.js"
 }
