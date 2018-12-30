@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/snowflake-songs/precache-manifest.3958eacd7f19afe5819384a468e87182.js"
+  "/snowflake-songs/precache-manifest.37a7c213118a8ccf40f1ddd07a9ae951.js"
 );
 
 workbox.clientsClaim();
