@@ -3,11 +3,16 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF, faTwitter, faLinkedin, faPinterest } from '@fortawesome/free-brands-svg-icons';
 
+import PinterestImg from './../../img/snowflakes-home.PNG';
+
 const shareText = "The best New Year songs as Snowflakes! ❄❄❄";
-const shareImage = "./img/snowflakes-home.PNG";
+
 
 const ShareLinks = () => {
 	const currentUrl = window.location.hostname;
+	const shareImage = currentUrl + PinterestImg;
+	
+	console.log("http://pinterest.com/pin/create/button/?url=" +currentUrl + "description=" + shareText + "media=" + shareImage)
 	return (
 		<div className="socialfloat">
 	    	<a key="facebook"
